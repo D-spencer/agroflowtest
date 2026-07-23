@@ -14,7 +14,7 @@ from chatbot.rrf import reciprocal_rank_fusion
 
 from chatbot.reranker import rerank_documents
 
-from chatbot.context_compression import compress_context
+from chatbot.context_compressor import compress_context
 
 
 # ============================================================
